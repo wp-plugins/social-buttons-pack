@@ -3,7 +3,7 @@ Contributors: bestwebsoft
 Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=1&product_id=94
 Tags: button, buton, batton, button like, follow, follow button, like, like button, my page button, share, share button, social, social button, social account, facebook, facebook account button, facebook button, facebook button language, facebook button icon, facebook button like, facebook button share, facebook ID, facebook page, facebook like, facebook like button, facebook share, facebook share button, add twitter button, connect, tvet, tvett, tvit, tviter, tvitt, tweet, tweeter, tweetter, twet, tweter, twett, twit, twiter, twiter conect, twitt, twitter button display, twitter connect, twitter follow, twitter follow button, twitter like, twitter like button, twitter plugin, twitter share, twitter share button,add google +1 button, google +1, goggle +1, gogole +1, googgle +1, google +1 button, google +1 button in posts, google +1 button in pages, google +1 button like, google +1 button share, google +1 like, google +1 like button, google +1 like count, google search engine, google +1 plugin, google +1 share, google +1 share button, recommend post on google+
 Requires at least: 3.1
-Tested up to: 4.1.1
+Tested up to: 4.1.2
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -45,7 +45,7 @@ We can fix some things for free for the users who provide translation of our plu
 
 == Installation ==
 
-1. Upload the folder `facebook-button-plugin` to the directory `/wp-content/plugins/`.
+1. Upload the folder `social-buttons-pack` to the directory `/wp-content/plugins/`.
 2. Activate the plugin via the 'Plugins' menu in your WordPress admin panel.
 3. You can adjust the necessary settings in your WordPress admin panel - "BWS Plugins" > "Social Buttons".
 
@@ -87,10 +87,10 @@ Please make sure that the problem hasn't been discussed yet on our forum (<a hre
 
 == Changelog ==
 
-= V1.0.0 - 16.04.2015 =
-* Update : We updated all functionality for wordpress 4.1.1.
+= V1.0.0 - 23.04.2015 =
+* Update : We updated all functionality for wordpress 4.1.2.
 
 == Upgrade Notice ==
 
 = V1.0.0 =
-We updated all functionality for wordpress 4.1.1.
+We updated all functionality for wordpress 4.1.2.
